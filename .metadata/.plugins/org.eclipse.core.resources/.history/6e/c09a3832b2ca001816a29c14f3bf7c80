@@ -1,0 +1,5 @@
+package io.dinuka.controller.topic;
+
+public class TopicController {
+
+}
